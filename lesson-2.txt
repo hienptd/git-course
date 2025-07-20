@@ -1,0 +1,8 @@
+1.
+git init: Là câu lệnh khởi tạo thư mục được quản lý từ git
+git add <file_name>: là câu lệnh add 1 file
+git add . : là câu lệnh add tất cả các file
+git commit -m "message": là câu lệnh commit
+2. 
+file1 sẽ nằm trong Repository
+file2 + file3 vẫn nằm ở Working Directory
